@@ -2,4 +2,3 @@
 "Test pull from github""
 "Test git gui"
 "some changes to pull"
-"test reset"
